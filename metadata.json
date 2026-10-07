@@ -1,0 +1,6 @@
+{
+  "name": "Data Engine Workspace",
+  "description": "High-craft, data-dense workspace for modern pipeline engineering, workflow automation, and record inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
